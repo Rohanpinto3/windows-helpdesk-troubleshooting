@@ -81,7 +81,7 @@ Disabled non-essential startup programs, reducing resource usage and improving p
 
 ### What I Learned
 
-This scenario reinforced the importance of checking system resources and startup processes when troubleshooting performance issues.
+This scenario reinforced the importance of checking system resources and startup processes when troubleshooting performance issues
 ---
 
 # Scenario 3: Printer Not Printing / Printer Missing
