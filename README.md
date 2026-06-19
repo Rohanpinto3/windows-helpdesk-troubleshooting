@@ -48,6 +48,7 @@ Configured the adapter to obtain DNS settings automatically and reconnected to t
 ### What I Learned
 
 This issue highlighted the importance of DNS in network connectivity and reinforced a structured troubleshooting approach.
+
 ---
 
 # Scenario 2: Computer Running Very Slowly
