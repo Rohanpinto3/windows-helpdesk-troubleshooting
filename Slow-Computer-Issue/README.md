@@ -1,15 +1,5 @@
 # Slow Computer Performance — Windows 10/11 Optimization
 
-## Ticket Information
-
-- **Category:** Windows / Performance / Desktop Support
-- **Priority:** P3 – Medium
-- **Impact:** Single user experiencing degraded system performance
-- **SLA Target:** 4 hours
-- **Resolution Time:** 1 hour
-- **Status:** Resolved
-
----
 
 ## 🧠 Scenario
 
