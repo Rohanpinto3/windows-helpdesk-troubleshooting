@@ -118,9 +118,6 @@ Restarted the Print Spooler service and verified successful printing.
 
 
 ---
-# IT Most Common Troubleshooting
-
----
 
 ## 📑 Table of Contents
 
